@@ -48,8 +48,9 @@ if(!class_exists('WP_Plugin_Template'))
 		 */
 		public static function activate()
 		{
-			// Do nothing
-		} // END public static function activate
+
+
+		}
 
 		/**
 		 * Deactivate the plugin

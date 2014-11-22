@@ -9,13 +9,15 @@
     </tr>
     <tr valign="top">
         <th class="metabox_label_column">
-            <label for="meta_a">Multiselect</label>
+            <label for="meta_b">Multiselect</label>
         </th>
         <td>
-            <select id="multiselect" multiple name="multiselect" value="<?php echo @get_post_meta($post->ID, 'meta_b', true); ?>">
+
+            <select multiple="multiple" id="meta_b" name="meta_b[]" >
                 <option value="1">Option 1</option>
                 <option value="2">Option 2</option>
-            </select>         </td>
+            </select>
+             </td>
     </tr>
 
 </table>

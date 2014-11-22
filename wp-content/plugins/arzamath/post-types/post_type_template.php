@@ -4,14 +4,16 @@ if(!class_exists('Post_Type_Template'))
 	/**
 	 * A PostTypeTemplate class that provides 3 additional meta fields
 	 */
+
 	class Post_Type_Template
 	{
 		const POST_TYPE	= "post-type-template";
 		private $_meta	= array(
 			'meta_a',
 			'meta_b',
-			'meta_c',
+
 		);
+
 		
     	/**
     	 * The Constructor
@@ -68,11 +70,15 @@ if(!class_exists('Post_Type_Template'))
             
     		if(isset($_POST['post_type']) && $_POST['post_type'] == self::POST_TYPE && current_user_can('edit_post', $post_id))
     		{
+
     			foreach($this->_meta as $field_name)
     			{
     				// Update the post's meta field
-    				update_post_meta($post_id, $field_name, $_POST[$field_name]);
+    				update_post_meta($post_id, $field_name, $_POST[$field_name] );
+
+
     			}
+
     		}
     		else
     		{

@@ -7,6 +7,7 @@ if(!class_exists('WP_Plugin_Template_Settings'))
 {
 	class WP_Plugin_Template_Settings
 	{
+
 		/**
 		 * Construct the plugin object
 		 */
@@ -73,8 +74,11 @@ if(!class_exists('WP_Plugin_Template_Settings'))
          */
         public function settings_field_input_text($my)
         {
+
             // Get the field name from the $args array
             $field = $my['field'];
+
+
             // Get the value of this setting
             $value = get_option($field);
             // echo a proper input type="text"
@@ -82,20 +86,30 @@ if(!class_exists('WP_Plugin_Template_Settings'))
         } // END public function settings_field_input_text($args)
 
 
-        function create_section_for_category_select()
+        function create_section_for_category_select($param)
         {
+
+
+            $field = $param['field'];
+
+            $value = get_option($field);
+
 
             $number = array( 1, 2, 3);
 
-            echo "<select id='1' name='ny'>";
-            echo "<option></option>";
+            echo "<select id='{$field}'  name='{$field}'>";
+            echo "<option>- select -</option>";
+
             foreach($number as $option){
-                $selected = $option == $_POST['ny'] ? "selected='selected'" : "";
-                echo "<option $selected value='$option'> $option </option>";
+                $selected = $option == $value ? "selected='selected'" : "";
+                echo "<option $selected value='{$option}'> $option </option>";
             }
+
             echo "</select>";
 
         }
+
+
 
 
         /**
