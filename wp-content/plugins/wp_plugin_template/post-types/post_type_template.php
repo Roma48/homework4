@@ -48,7 +48,7 @@ if(!class_exists('Post_Type_Template'))
     				'has_archive' => true,
     				'description' => __("This is a sample post type meant only to illustrate a preferred structure of plugin development"),
     				'supports' => array(
-    					'title', 'editor', 'excerpt', 
+    					'title', 'editor', 'thumbnail',
     				),
     			)
     		);
@@ -97,7 +97,7 @@ if(!class_exists('Post_Type_Template'))
     		// Add this metabox to every selected post
     		add_meta_box( 
     			sprintf('wp_plugin_template_%s_section', self::POST_TYPE),
-    			sprintf('%s Information', ucwords(str_replace("_", " ", self::POST_TYPE))),
+    			sprintf('Arzamath Information', ucwords(str_replace("_", " ", self::POST_TYPE))),
     			array(&$this, 'add_inner_meta_boxes'),
     			self::POST_TYPE
     	    );					
