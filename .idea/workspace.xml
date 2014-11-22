@@ -23,30 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wp_plugin_template.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/wp_plugin_template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="36" selection-start="680" selection-end="698" vertical-scroll-proportion="-13.333333" vertical-offset="40" max-vertical-offset="1335">
-              <folding>
-                <element signature="e#6#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/settings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="33" selection-start="2725" selection-end="2725" vertical-scroll-proportion="-20.0" vertical-offset="855" max-vertical-offset="2085">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="options.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3855">
               <folding>
                 <marker date="1409072356000" expanded="true" signature="8843:8892" placeholder="SELECT * FRO..$wpdb-&gt;options ORDER..." />
               </folding>
@@ -54,29 +34,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/settings.php">
+      <file leaf-file-name="arzamath.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post-type-template_metabox.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/post-type-template_metabox.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="36" selection-start="109" selection-end="109" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="405">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_type_template.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/post-types/post_type_template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="33" selection-start="2837" selection-end="2837" vertical-scroll-proportion="0.77681875" vertical-offset="855" max-vertical-offset="1830">
-              <folding />
+            <state line="1" column="0" selection-start="6" selection-end="181" vertical-scroll-proportion="0.017688679" vertical-offset="0" max-vertical-offset="1335">
+              <folding>
+                <element signature="e#6#181#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,59 +166,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp_plugin_template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp_plugin_template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homework4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp_plugin_template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="post-types" />
+              <option name="myItemId" value="arzamath" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,7 +212,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1282" height="1000" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -339,42 +251,12 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/wp_plugin_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="11" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
-          <folding>
-            <element signature="e#6#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="0" selection-start="3029" selection-end="3029" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="2085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065">
           <folding>
             <marker date="1409072356000" expanded="true" signature="8843:8892" placeholder="SELECT * FRO..$wpdb-&gt;options ORDER..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/post-type-template_metabox.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="510">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,38 +270,6 @@
     <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/post-types/post_type_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="252" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1830">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3855">
-          <folding>
-            <marker date="1409072356000" expanded="true" signature="8843:8892" placeholder="SELECT * FRO..$wpdb-&gt;options ORDER..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/wp_plugin_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="36" selection-start="680" selection-end="698" vertical-scroll-proportion="-13.333333" vertical-offset="40" max-vertical-offset="1335">
-          <folding>
-            <element signature="e#6#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="33" selection-start="2725" selection-end="2725" vertical-scroll-proportion="-20.0" vertical-offset="855" max-vertical-offset="2085">
           <folding />
         </state>
       </provider>
@@ -456,24 +306,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/settings.php">
+    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
-          <folding />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3855">
+          <folding>
+            <marker date="1409072356000" expanded="true" signature="8843:8892" placeholder="SELECT * FRO..$wpdb-&gt;options ORDER..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/templates/post-type-template_metabox.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="109" selection-end="109" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp_plugin_template/post-types/post_type_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="33" selection-start="2837" selection-end="2837" vertical-scroll-proportion="0.77681875" vertical-offset="855" max-vertical-offset="1830">
-          <folding />
+        <state line="1" column="0" selection-start="6" selection-end="181" vertical-scroll-proportion="0.017688679" vertical-offset="0" max-vertical-offset="1335">
+          <folding>
+            <element signature="e#6#181#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
