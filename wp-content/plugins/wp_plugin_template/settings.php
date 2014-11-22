@@ -27,7 +27,7 @@ if(!class_exists('WP_Plugin_Template_Settings'))
         	register_setting('wp_plugin_template-group', 'setting_b');
 
         	// add your settings section
-            var_dump($_POST);
+
 
         	add_settings_section(
         	    'wp_plugin_template-section',
@@ -87,22 +87,13 @@ if(!class_exists('WP_Plugin_Template_Settings'))
 
             $number = array( 1, 2, 3);
 
-            echo "<select id='1'  name='ny'>";
+            echo "<select id='1' name='ny'>";
             echo "<option></option>";
             foreach($number as $option){
-
-
                 $selected = $option == $_POST['ny'] ? "selected='selected'" : "";
                 echo "<option $selected value='$option'> $option </option>";
-
             }
             echo "</select>";
-
-
-
-
-
-
 
         }
 

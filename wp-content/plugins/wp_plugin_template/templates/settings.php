@@ -1,6 +1,6 @@
 <div class="wrap">
     <h2>WP Plugin Template</h2>
-    <form method="post" action="options.php" name="myform" id="my">
+    <form method="post" multiple action="" name="myform" id="my">
         <?php @settings_fields('wp_plugin_template-group'); ?>
         <?php @do_settings_fields('wp_plugin_template-group'); ?>
 
