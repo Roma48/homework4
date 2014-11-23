@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="0" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.4368932" vertical-offset="1080" max-vertical-offset="2295">
+            <state line="97" column="37" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-15.625" vertical-offset="1080" max-vertical-offset="2400">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="arzamath.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="1245">
+            <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+            <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="post_type_template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="-7.7586207" vertical-offset="630" max-vertical-offset="1920">
+            <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1920">
               <folding>
                 <marker date="1416690769293" expanded="true" signature="1945:2024" placeholder="..." />
               </folding>
@@ -64,7 +64,7 @@
       <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/media.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="-7.125" vertical-offset="48759" max-vertical-offset="49800">
+            <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="0.0" vertical-offset="49005" max-vertical-offset="49875">
               <folding>
                 <marker date="1409675776000" expanded="true" signature="38017:38375" placeholder="..." />
                 <marker date="1409675776000" expanded="true" signature="38035:38059" placeholder="{...}" />
@@ -101,15 +101,8 @@
       <file leaf-file-name="meta.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/meta.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="-14.958333" vertical-offset="646" max-vertical-offset="18255">
-              <folding>
-                <marker date="1409160196000" expanded="true" signature="2510:2574" placeholder="SELECT COUNT..$table WHERE..." />
-                <marker date="1409160196000" expanded="true" signature="6547:6613" placeholder="SELECT $id_c..$table WHERE..." />
-                <marker date="1409160196000" expanded="true" signature="11421:11470" placeholder="SELECT $id_c..$table WHERE..." />
-                <marker date="1409160196000" expanded="true" signature="11816:11867" placeholder="SELECT $type..$table WHERE..." />
-                <marker date="1409160196000" expanded="true" signature="17663:17705" placeholder="SELECT * FRO..$table WHERE..." />
-                <marker date="1409160196000" expanded="true" signature="24463:24563" placeholder="SELECT $colu..$table WHERE..." />
-              </folding>
+            <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="18405">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,18 +110,16 @@
       <file leaf-file-name="post-new.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="-2.8448277" vertical-offset="0" max-vertical-offset="1200">
-              <folding>
-                <element signature="e#6#103#0" expanded="true" />
-              </folding>
+            <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1200">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-type-template_metabox.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="post-type-template_metabox.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="450" selection-end="633" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="435">
+            <state line="30" column="21" selection-start="450" selection-end="1098" vertical-scroll-proportion="0.54611653" vertical-offset="0" max-vertical-offset="824">
               <folding />
             </state>
           </provider>
@@ -137,39 +128,8 @@
       <file leaf-file-name="post.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="-7.2083335" vertical-offset="28057" max-vertical-offset="87600">
-              <folding>
-                <marker date="1407781276000" expanded="true" signature="18496:18544" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="80258:80342" placeholder="SELECT post_..." />
-                <marker date="1407781276000" expanded="true" signature="82295:82446" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="82615:82712" placeholder="SELECT COUNT..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="88323:88363" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="89380:89448" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="89748:89825" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="90240:90305" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="90455:90509" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="95201:95284" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="113199:113240" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="123044:123120" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="125435:125530" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="133545:133590" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="135128:135173" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="135759:135805" placeholder="SELECT to_pi..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="137258:137310" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="139249:139389" placeholder="SELECT ID, p..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="140876:140974" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="141035:141112" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="151767:151831" placeholder="SELECT * FRO..." />
-                <marker date="1407781276000" expanded="true" signature="155908:155948" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="157234:157299" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="157450:157504" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="158071:158190" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="175648:175793" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="175852:175993" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="176054:176248" placeholder="SELECT DATE_..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="186905:187015" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-                <marker date="1407781276000" expanded="true" signature="188490:188546" placeholder="SELECT $wpdb..$wpdb-&gt;posts WHERE..." />
-              </folding>
+            <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="0.0" vertical-offset="28320" max-vertical-offset="87690">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -197,9 +157,9 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php" />
         <option value="$PROJECT_DIR$/wp-admin/post-new.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php" />
       </list>
     </option>
   </component>
@@ -236,7 +196,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -363,6 +322,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,7 +367,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -418,10 +377,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -441,166 +401,39 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065">
+        <state line="110" column="46" selection-start="3193" selection-end="3193" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="2400">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-          <folding>
-            <element signature="e#6#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/export.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="26.25" vertical-offset="630" max-vertical-offset="3660" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/media-upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="485" selection-end="672" vertical-scroll-proportion="-0.565534" vertical-offset="646" max-vertical-offset="1470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="353" column="80" selection-start="11555" selection-end="11626" vertical-scroll-proportion="-3.689655" vertical-offset="5081" max-vertical-offset="21690">
-          <folding>
-            <element signature="e#6#74#0" expanded="true" />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT optio..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT autol..$wpdb-&gt;options WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
-            <marker date="1407887236000" expanded="true" signature="-1:-1" placeholder="SELECT meta_..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1652281" vertical-offset="945" max-vertical-offset="3855">
-          <folding>
-            <marker date="1409072356000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;options ORDER..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="25" selection-start="2748" selection-end="2748" vertical-scroll-proportion="0.71257484" vertical-offset="260" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="-7.2083335" vertical-offset="28057" max-vertical-offset="87600">
-          <folding>
-            <marker date="1407781276000" expanded="true" signature="18496:18544" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="80258:80342" placeholder="SELECT post_..." />
-            <marker date="1407781276000" expanded="true" signature="82295:82446" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="82615:82712" placeholder="SELECT COUNT..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="88323:88363" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="89380:89448" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="89748:89825" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="90240:90305" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="90455:90509" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="95201:95284" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="113199:113240" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="123044:123120" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="125435:125530" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="133545:133590" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="135128:135173" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="135759:135805" placeholder="SELECT to_pi..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="137258:137310" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="139249:139389" placeholder="SELECT ID, p..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="140876:140974" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="141035:141112" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="151767:151831" placeholder="SELECT * FRO..." />
-            <marker date="1407781276000" expanded="true" signature="155908:155948" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="157234:157299" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="157450:157504" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="158071:158190" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="175648:175793" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="175852:175993" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="176054:176248" placeholder="SELECT DATE_..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="186905:187015" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
-            <marker date="1407781276000" expanded="true" signature="188490:188546" placeholder="SELECT $wpdb..$wpdb-&gt;posts WHERE..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-26.875" vertical-offset="0" max-vertical-offset="1245">
+        <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/includes/template.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="916" column="9" selection-start="33585" selection-end="33585" vertical-scroll-proportion="-0.8779285" vertical-offset="14347" max-vertical-offset="32340">
+        <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1920">
           <folding>
-            <marker date="1409046916000" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;postmeta&#10;&#9;&#9;GROUP..." />
-            <marker date="1409046916000" expanded="true" signature="-1:-1" placeholder="SELECT ID, p..$wpdb-&gt;posts WHERE..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="-2.8448277" vertical-offset="0" max-vertical-offset="1200">
-          <folding>
-            <element signature="e#6#103#0" expanded="true" />
+            <marker date="1416690769293" expanded="true" signature="1945:2024" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/media.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="-7.125" vertical-offset="48759" max-vertical-offset="49800">
+        <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="0.0" vertical-offset="49005" max-vertical-offset="49875">
           <folding>
             <marker date="1409675776000" expanded="true" signature="38017:38375" placeholder="..." />
             <marker date="1409675776000" expanded="true" signature="38035:38059" placeholder="{...}" />
@@ -635,37 +468,371 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="-14.958333" vertical-offset="646" max-vertical-offset="18255">
-          <folding>
-            <marker date="1409160196000" expanded="true" signature="2510:2574" placeholder="SELECT COUNT..$table WHERE..." />
-            <marker date="1409160196000" expanded="true" signature="6547:6613" placeholder="SELECT $id_c..$table WHERE..." />
-            <marker date="1409160196000" expanded="true" signature="11421:11470" placeholder="SELECT $id_c..$table WHERE..." />
-            <marker date="1409160196000" expanded="true" signature="11816:11867" placeholder="SELECT $type..$table WHERE..." />
-            <marker date="1409160196000" expanded="true" signature="17663:17705" placeholder="SELECT * FRO..$table WHERE..." />
-            <marker date="1409160196000" expanded="true" signature="24463:24563" placeholder="SELECT $colu..$table WHERE..." />
-          </folding>
+        <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="18405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1200">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="450" selection-end="633" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="435">
+        <state line="15" column="69" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="0.0" vertical-offset="28320" max-vertical-offset="87690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="-7.7586207" vertical-offset="630" max-vertical-offset="1920">
+        <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1920">
           <folding>
             <marker date="1416690769293" expanded="true" signature="1945:2024" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="0.0" vertical-offset="49005" max-vertical-offset="49875">
+          <folding>
+            <marker date="1409675776000" expanded="true" signature="38017:38375" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="38035:38059" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38090:38189" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38210:38247" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38281:38307" placeholder="{...}" />
+            <marker date="1409675776000" expanded="false" signature="40056:40067" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="40169:40180" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40422:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40484:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40523:40887" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40628:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40745:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40982:41543" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41038:41403" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41094:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41148:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41248:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41381:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41392:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41409:41537" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="65459:65463" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="96527:96634" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96675:96782" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96840:96979" placeholder="SELECT DISTI..." />
+            <marker date="1409675776000" expanded="true" signature="100494:100510" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="100521:100537" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="112653:112745" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="18405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1888" column="22" selection-start="66836" selection-end="66836" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="87690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="0" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.4368932" vertical-offset="1080" max-vertical-offset="2295">
+        <state line="96" column="0" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1920">
+          <folding>
+            <marker date="1416690769293" expanded="true" signature="1945:2024" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="0.0" vertical-offset="49005" max-vertical-offset="49875">
+          <folding>
+            <marker date="1409675776000" expanded="true" signature="38017:38375" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="38035:38059" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38090:38189" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38210:38247" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38281:38307" placeholder="{...}" />
+            <marker date="1409675776000" expanded="false" signature="40056:40067" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="40169:40180" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40422:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40484:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40523:40887" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40628:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40745:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40982:41543" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41038:41403" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41094:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41148:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41248:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41381:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41392:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41409:41537" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="65459:65463" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="96527:96634" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96675:96782" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96840:96979" placeholder="SELECT DISTI..." />
+            <marker date="1409675776000" expanded="true" signature="100494:100510" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="100521:100537" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="112653:112745" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="450" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="0.0" vertical-offset="28320" max-vertical-offset="87690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="26.25" vertical-offset="630" max-vertical-offset="3660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/media-upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="485" selection-end="672" vertical-scroll-proportion="-0.565534" vertical-offset="646" max-vertical-offset="1470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="353" column="80" selection-start="11555" selection-end="11626" vertical-scroll-proportion="-3.689655" vertical-offset="5081" max-vertical-offset="21690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1652281" vertical-offset="945" max-vertical-offset="3855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="25" selection-start="2748" selection-end="2748" vertical-scroll-proportion="0.71257484" vertical-offset="260" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1888" column="22" selection-start="66823" selection-end="66836" vertical-scroll-proportion="0.0" vertical-offset="28320" max-vertical-offset="87690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/arzamath.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="916" column="9" selection-start="33585" selection-end="33585" vertical-scroll-proportion="-0.8779285" vertical-offset="14347" max-vertical-offset="32340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="217" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3267" column="8" selection-start="111842" selection-end="111842" vertical-scroll-proportion="0.0" vertical-offset="49005" max-vertical-offset="49875">
+          <folding>
+            <marker date="1409675776000" expanded="true" signature="38017:38375" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="38035:38059" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38090:38189" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38210:38247" placeholder="{...}" />
+            <marker date="1409675776000" expanded="true" signature="38281:38307" placeholder="{...}" />
+            <marker date="1409675776000" expanded="false" signature="40056:40067" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="40169:40180" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40422:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40484:40888" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40523:40887" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40628:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40745:40881" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="40982:41543" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41038:41403" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41094:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41148:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41248:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41381:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41392:41399" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="41409:41537" placeholder="..." />
+            <marker date="1409675776000" expanded="false" signature="65459:65463" placeholder="..." />
+            <marker date="1409675776000" expanded="true" signature="96527:96634" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96675:96782" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1409675776000" expanded="true" signature="96840:96979" placeholder="SELECT DISTI..." />
+            <marker date="1409675776000" expanded="true" signature="100494:100510" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="100521:100537" placeholder="Insert into ..." />
+            <marker date="1409675776000" expanded="true" signature="112653:112745" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="4" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="18405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/post-types/post_type_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1920">
+          <folding>
+            <marker date="1416690769293" expanded="true" signature="1945:2024" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="37" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-15.625" vertical-offset="1080" max-vertical-offset="2400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/arzamath/templates/post-type-template_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="21" selection-start="450" selection-end="1098" vertical-scroll-proportion="0.54611653" vertical-offset="0" max-vertical-offset="824">
           <folding />
         </state>
       </provider>

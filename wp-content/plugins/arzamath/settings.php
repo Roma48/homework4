@@ -95,15 +95,22 @@ if(!class_exists('WP_Plugin_Template_Settings'))
             $value = get_option($field);
 
 
-            $number = array( 1, 2, 3);
+            $number = array(1, 2, 3);
+
+
 
             echo "<select id='{$field}'  name='{$field}'>";
             echo "<option>- select -</option>";
 
+
+
+
             foreach($number as $option){
+
                 $selected = $option == $value ? "selected='selected'" : "";
                 echo "<option $selected value='{$option}'> $option </option>";
             }
+
 
             echo "</select>";
 
